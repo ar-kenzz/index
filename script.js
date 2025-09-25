@@ -2,7 +2,6 @@
 const docs = [
   { title: "Revisi", link: "https://ar-kenzz.github.io/Thoughts/Doc1/" },
   { title: "Revisi", link: "https://ar-kenzz.github.io/Thoughts/Doc1/" },
-  { title: "Revisi", link: "https://ar-kenzz.github.io/Thoughts/Doc1/" },
   { title: "Menuju Indonesia Emas", link: "https://ar-kenzz.github.io/Thoughts/Doc2/" }
 ];
 
@@ -86,5 +85,3 @@ const modalClose=document.getElementById("modalClose");
 
 modalClose.addEventListener("click",()=>modal.classList.remove("show"));
 modal.addEventListener("click",e=>{if(e.target===modal) modal.classList.remove("show");});
-
-
