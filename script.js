@@ -2,6 +2,7 @@
 const docs = [
   { title: "Revisi", link: "https://ar-kenzz.github.io/Thoughts/Doc1/" },
   { title: "Revisi", link: "https://ar-kenzz.github.io/Thoughts/Doc1/" },
+  { title: "Revisi", link: "https://ar-kenzz.github.io/Thoughts/Doc1/" },
   { title: "Menuju Indonesia Emas", link: "https://ar-kenzz.github.io/Thoughts/Doc2/" }
 ];
 
