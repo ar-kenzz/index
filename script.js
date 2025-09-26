@@ -1,9 +1,7 @@
 // ===== Daftar dokumen =====
 const docs = [
-  { title: "Revisi", link: "https://ar-kenzz.github.io/Thoughts/Doc1/" },
-  { title: "Revisi", link: "https://ar-kenzz.github.io/Thoughts/Doc1/" },
-  { title: "Revisi", link: "https://ar-kenzz.github.io/Thoughts/Doc1/" },
-  { title: "Menuju Indonesia Emas", link: "https://ar-kenzz.github.io/Thoughts/Doc2/" }
+  { title: "Revisi", link: "https://arfin-maulana.github.io/thoughts/doc1/" },
+  { title: "Menuju Indonesia Emas", link: "https://arfin-maulana.github.io/thoughts/doc2/" }
 ];
 
 const body = document.body;
