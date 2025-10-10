@@ -1,7 +1,8 @@
 // ===== Daftar dokumen =====
 const docs = [
   { title: "Revisi", link: "https://arfin-maulana.github.io/thoughts/doc1/" },
-  { title: "Menuju Indonesia Emas", link: "https://arfin-maulana.github.io/thoughts/doc2/" }
+  { title: "Menuju Indonesia Emas", link: "https://arfin-maulana.github.io/thoughts/doc2/" },
+  { title: "Do Something", link: "https://arfin-maulana.github.io/thoughts/doc3/" }
 ];
 
 const body = document.body;
@@ -84,3 +85,4 @@ const modalClose=document.getElementById("modalClose");
 
 modalClose.addEventListener("click",()=>modal.classList.remove("show"));
 modal.addEventListener("click",e=>{if(e.target===modal) modal.classList.remove("show");});
+
